@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tithes re-mounted and advanced by the VVord of God, for the ministers of the Gospell. Proving, that tithes are due to the ministers of the Gospell, as to the priests and Levites under the law. In answer to a late scandalous and seditious pamphlet intituled, The ordinance of tithes dismounted. Dedicated to the right honourable the Lord Mayor. / By Martin Bovvne. Imprimatur. John Dovvname.</title>
+            <author>Bowne, Martin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77158</idno>
+            <idno type="STC">Wing B3889</idno>
+            <idno type="STC">Thomason E341_3</idno>
+            <idno type="STC">ESTC R200895</idno>
+            <idno type="EEBO-CITATION">99861517</idno>
+            <idno type="PROQUEST">99861517</idno>
+            <idno type="VID">113654</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113654)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tithes re-mounted and advanced by the VVord of God, for the ministers of the Gospell. Proving, that tithes are due to the ministers of the Gospell, as to the priests and Levites under the law. In answer to a late scandalous and seditious pamphlet intituled, The ordinance of tithes dismounted. Dedicated to the right honourable the Lord Mayor. / By Martin Bovvne. Imprimatur. John Dovvname.</title>
+                  <author>Bowne, Martin.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates at the Maidenhead on Snovv-hill, neare Holborne Conduit.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Overton, Richard. The ordinance for tythes dismounted, from all Mosaicall, evangelicall, and true magesteriall right (Wing O632).</note>
+                  <note>Annotation on Thomason copy: "June 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Richard, fl. 1646. --  Ordinance for tythes dismounted, from all Mosaicall, evangelicall, and true magesteriall right.</term>
+               <term>Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113654:1"/>
+            <pb facs="tcp:113654:1" rendition="simple:additions"/>
+            <p>TITHES Re-mounted and advanced <hi>BY</hi> The Word of God, FOR THE <hi>Miniſters of the</hi> GOSPELL.</p>
+            <p>PROVING, That Tithes are as due to the Miniſters of the Goſpell, as to the Prieſts and Levites under the Law.</p>
+            <p>In Anſwer to a late ſcandalous and ſeditious Pamphlet intituled, <hi>The Ordinance of Tithes diſmounted.</hi>
+            </p>
+            <p>Dedicated to the right honourable the Lord Mayor.</p>
+            <p>By MARTIN BOVVNE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>JOHN DOVVNAME.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1</hi> Cor. <hi>9.11.</hi>
+               </bibl> 
+               <hi>If we have ſowen unto you ſpirituall things, is it a great thing of we reap your carnall things?</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Bates</hi> at the Mardenhead on Snovv-hill, neare Holborne Conduit. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113654:2"/>
+            <pb facs="tcp:113654:2"/>
+            <head>TO THE RIGHT HONOURABLE, THOMAS ADAMS, Lord Mayor of the honourable City of LONDON.</head>
+            <opener>
+               <salute>My very good Lord,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Doe underſtand and perceive that there is a Pamphlet ex<g ref="char:EOLhyphen"/>hibited unto your Lordſhip, intituled, <hi>An Indictment againſt paying of Tithes unto the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpell:</hi> and therein are alledged Reaſons, ſeeming by their Alle<g ref="char:EOLhyphen"/>gations to prove them unlawfull by the
+<pb facs="tcp:113654:3"/>Word of God; and therein it doth ap<g ref="char:EOLhyphen"/>peare unto me, they ſpeak they cannot tell what, or els they care not what. J doe therefore humbly beſeech your Honour to accept my poore endeavours, in this enſu<g ref="char:EOLhyphen"/>ing Treatiſe, which doth concerne the lawfulneſſe of paying Tithes to the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpell, and to give it your honourable favour, ſo farre as the truth of the Word of God doth approve of it, and no further.</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours humble Servant,</hi> Martin Bowne.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113654:3"/>
+            <head>TITHES Re-mounted and advanced BY THE <hi>WORD OF GOD,</hi> FOR THE <hi>Miniſters of the Goſpell.</hi>
+            </head>
+            <head type="sub">In anſwer to a late ſcandalous and ſeditious Pamphlet, intituled, <hi>The Ordinance of Tithes diſmounted.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a great controverſie now adayes, and hath beene a long time about the mainte<g ref="char:EOLhyphen"/>nance of the Miniſters Inſtruments of Gods Worſhip and Service, the derogation ther<g ref="char:EOLhyphen"/>of hath hindred the propagation of the Goſ<g ref="char:EOLhyphen"/>pell, and the Reformation of Religion, in a moſt miſerable manner: And that in theſe reſpects, Firſt in taking away the greater tithes of manie Pariſhes in this Kingdome, and making manie impropriati<g ref="char:EOLhyphen"/>tions
+<pb n="2" facs="tcp:113654:4"/>from the Church, where there hath not been mainte<g ref="char:EOLhyphen"/>nance or meanes for a Preaching Miniſter, in thoſe im<g ref="char:EOLhyphen"/>propriate Pariſhes; ſo that in manie places there hath not been meanes for a bare reading Miniſter, much leſſe for a preaching Miniſter: for Chriſts Miniſterie is a preaching Mi<g ref="char:EOLhyphen"/>niſterie, and not onely a reading Miniſterie, and therefore cannot be maintained with a little (as ſome do ſuppoſe they may) as Browniſts Anabaptiſts, Antinomians, Familiſts, Inde<g ref="char:EOLhyphen"/>pendents and ſuch like, that have out of pride and covetouſ<g ref="char:EOLhyphen"/>neſſe deviſed thoſe errours and broached them in the Church, to peſter and hinder more the Goſpell of Jeſus Chriſt, then to further it any way. They forſooth, will have no tithes paid un<g ref="char:EOLhyphen"/>to the Miniſters of the Goſpell, but they ſhould labour in ſome other calling for their living (ſay they) as others do, and as the Apoſtles did, ſome were Fiſhermen, and S. <hi>Paul</hi> was a Tentmaker.</p>
+            <p>But I anſwer, there is a difference between the Apoſtles who had their immediate calling by God, and our Mini<g ref="char:EOLhyphen"/>ſtes who have their mediate calling by God alſo, but by meanes of ſchooling, and thereby to get learning, that they may attaine to the Miniſteriall function, and ſo conſequent<g ref="char:EOLhyphen"/>ly by ſtudy, whoſe labour is greater then handy-craft trades, or husbandry: and therefore it is a baſe opinion in thoſe that ſaid Miniſters of the Goſpell ſhould labour in ſome manuall calling; I thinke their diligent ſtudy and prea<g ref="char:EOLhyphen"/>ching is labour enough for them, we need lay no greater burthens upon their backs.</p>
+            <p>Againe, it is fit for religious people, profeſſors of the Goſpell, to conſider that there is difference betweene a ſet<g ref="char:EOLhyphen"/>ling Church, and a ſetled Church; Now the Apoſtles had worke enough in ſetling the Church in their time, as well in matters of faith, as in manners of life, according to the truth of Gods holy Word and Will, and yet the A<g ref="char:EOLhyphen"/>poſtles doe give rules and commands for Miniſters mainte<g ref="char:EOLhyphen"/>nance, as you ſhall heare anon.</p>
+            <pb n="3" facs="tcp:113654:4"/>
+            <p>OBIECT.</p>
+            <p>But what Tithes did the Apoſtle receive in that time when they were upon the earth?</p>
+            <p>ANSW.</p>
+            <p>I anſwer: What Tithes did the Prieſts and Levites re<g ref="char:EOLhyphen"/>ceive, as long as they were in the wilderneſſe? It is true; God did command Tithes to be paid then; but the payment of Tithes was not performed, untill the Children of Iſrael came into Canaan, the Land of promiſe where everie man did re<g ref="char:EOLhyphen"/>ceive his portion in poſſeſſion. For the time they were in the wilderneſſe, they had no ſetled portion in poſſeſſion to pay Tithes withall; for God did feed Prieſts, Levites and People, and all in an extraordinarie manner, as with Manna from Heaven; for as long as the children of Iſrael were in the wil<g ref="char:EOLhyphen"/>derneſſe, God was ſetling his Church, what they ſhould do when they came to their promiſed place, and portions: for all things commanded was not, nor could it be done in an in<g ref="char:EOLhyphen"/>ſtant by men. So the Lord our God, in the time of our bleſ<g ref="char:EOLhyphen"/>ſed Lord and Saviour Jeſus Chriſt, when he came, he did (as it were) new mould the manner of Gods worſhip and ſervice: That whereas before in the time of the Law, Gods worſhip and ſervice was by all externall means, as killing of Beaſts, and making of Sacrifices and all Offerings, and outward per<g ref="char:EOLhyphen"/>formances in the worſhip and ſervice of God.</p>
+            <p>But now, and ſince the time our Saviour Jeſus Chriſt came upon the earth, hee ordained, by the will of his Father, that his worſhip and ſervice muſt be ſpirituall and internall unto the end.</p>
+            <p>When God had made an end of deſcribing the manner of his worſhip and ſervice, as he would have it performed in the time of the Law, as we may find in the Books of <hi>Exodus</hi> and <hi>Levitieus.</hi> So at the end of the Book of <hi>Leviticus</hi> Chap. 27. the Lord by <hi>Moſes</hi> had reſerved the maintenance of his wor<g ref="char:EOLhyphen"/>ſhip and ſervice to himſelfe, as namely, Tithes of thoſe things that are ſpoken of in the foreſaid Chapter.</p>
+            <pb n="4" facs="tcp:113654:5"/>
+            <p>And after this the Lord gave the Tithes unto the Prieſts and Levites, as wee may read in the Book of <hi>Numbers</hi> 18.21, 24, 26, 28. And not only to the Prieſts and Levites in the time of the Law, but alſo to the Paſtours, Teachers and Mini<g ref="char:EOLhyphen"/>ſters in the time of the Goſpell of our bleſſed Saviour Jeſus Chriſt; for it was given for an inheritance for ever. If one of thoſe adverſe parties ſhould have the inheritance of a peece of land given him, I verily beleeve he does expect it as a right to him and his heires for ever, only by this title of Inheritance: And if any one ſhould offer to take from him this land, which hee ſo holdeth by this title of Inheritance, hee would hold himſelfe greatly wronged and oppreſſed: You will ſay it is true.</p>
+            <p>Then, I ſay, conſider the words of our Saviour Jeſus Chriſt, Whatſoever you would that men ſhould do unto you, even ſo do you; for this is the Law and the Prophets, <hi>Matthew</hi> chap. 7. verſ. 12.</p>
+            <p>Then conſider what you would other men ſhould do unto you, ſo do you unto other men, but eſpecially unto your Pa<g ref="char:EOLhyphen"/>ſtour and Miniſter, who doth watch for your ſouls, as he that muſt give an account for you; for you ſhould not think that too much, which your Paſtour or Miniſter hath, eſpecially if they be diligent in doing good to the Church of God.</p>
+            <p>OBIECT.</p>
+            <p>But what do you ſpeak of the Law of God for Prieſts and Levites to have Tithes, it was a Ceremoniall Ordinance, and it was aboliſhed at the coming of Chriſt; and therefore this doth make nothing for our Miniſters of the Goſpell to re<g ref="char:EOLhyphen"/>ceive Tithes, for private men are not to pay Tithes to the Miniſters of the Goſpell.</p>
+            <p>ANSW.</p>
+            <p>I anſwer: It is falſe to ſay, That payment of Tithes by pri<g ref="char:EOLhyphen"/>vate people, and receiving of Tithes by the Miniſters of the Goſpell, is a Ceremoniall Ordinance.</p>
+            <pb n="5" facs="tcp:113654:5"/>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Reaſons. </seg>
+               </label> for though the manner of Gods worſhip and ſervice in the time of the Law was ceremoniall: yet the maintenance of Gods worſhip and ſervice is morall, and laſteth for ever; For Gods worſhip and ſervice muſt and doth hold continually; For though the Ordinances and maoner of the worſhip and ſervice of God be changed at the coming of our Saviour Jeſus Chriſt, yet the matter and ſubſtance of the worſhip and ſervice of God, is not changed, but doth continue unto the end of the World: And therefore the maintenance of the worſhip and ſervice of God muſt of neceſſity continue as for conformation of this; the Sacrament of the Lords Supper was then tipified and ſhaddowed by <hi>Mel<g ref="char:EOLhyphen"/>chizedeck</hi> King of <hi>Shalem;</hi> who brought forth Bread and Wine, and he was a Prieſt of the moſt high God, therefore he bleſſed him, ſaying, <hi>Bleſſed art thou Abram of God moſt high, poſſeſſor of Heaven and Earth, and bleſſed be the moſt high God, which hath delivered thine enemies into thine hand: And Abram gave him tithe of all:</hi> by theſe words it doth plainly appeare, that <hi>Mel<g ref="char:EOLhyphen"/>chizedeck</hi> was not onely a figure of Jeſus Chriſt, but alſo a Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel of Jeſus Chriſt our alone Saviour, and as <hi>Abram</hi> gave tithes unto <hi>Melchizedeck</hi> ſo ought the Succeſſors of <hi>Abraham</hi> that profeſſe the Goſpel of our Saviour Jeſus Chriſt, to pay tithes unto the Miniſters of the Goſpel; and ſo conſequently unto our Saviour Jeſus Chriſt; For <hi>Melchizedeck</hi> was a figure of Jeſus Chriſt, and though our Saviour did not receive Tithes per<g ref="char:EOLhyphen"/>ſonally, yet he did receive Tithes figuratively, and this is to good purpoſe to prove Tithes to belong to the Miniſters of the Goſpel. Heb. 7.</p>
+            <p n="2">2. Tithes were payd before the Law, and therefore they ought to be payd after the Law, for we may perceive and ſee that how<g ref="char:EOLhyphen"/>ſoever the manner of the worſhip and ſervice of God as before was altered; yet the maintenance of Gods worſhip and ſervice (the tithes) were then payd therefore; to be conſidered.</p>
+            <p n="3">3. <hi>Abraham</hi> the Father of the faithfull, did pay tithes unto <hi>Melchiſedeck</hi> the figure of Chriſt, and therefore thoſe that will or are the children of the faithfull will pay tithes unto the Miniſters of the Goſpel of Jeſus Chriſt.</p>
+            <p>The adverſe party doth object that this doth nothing ſatisfie us
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <pb n="6" facs="tcp:113654:6"/>in the old Teſtament, ſhew us out of the new Teſtament that ithes belong to the Miniſters of Chriſt.</p>
+            <p>I anſwer, Firſt I will lay my ground on the old Teſtament, and then conclude in the new Teſtament.</p>
+            <p>The Prophet <hi>Iſaiah</hi> in his 66. chap. verſe 19. propheſying of the calling of the Gentiles, doth foreſhew the propagation of the Goſpel that they ſhall bring of all your Brethren for an Offering unto the Lord out of all Nations, and verſe 21. He ſaith, and I will take of them for Prieſts and for Levites ſaith the Lord, to wit, of the Gentiles, as it was verified in the time of the A<g ref="char:EOLhyphen"/>poſtles by <hi>Luke, Timothy,</hi> and <hi>Titus,</hi> firſt, and after to other ſue<g ref="char:EOLhyphen"/>ceeding Miniſters of the Goſpel of Jeſus Chriſt.</p>
+            <p>The Prophet here doth give us to underſtand by theſe Words, Prieſts, and Levites, to have relation unto the Prieſts, and Levites, unto whom God gave the tithes for an Inheritance, ſpoken of be<g ref="char:EOLhyphen"/>fore, Numb. 18. from the 21. verſe to the end of the Chapter, this Title I ſay Prieſts and Levites doth intimate unto us, that as God gave the tithes for the maintenance of his worſhip, and ſer<g ref="char:EOLhyphen"/>vice unto the Prieſts and Levites, the then miniſteriall Inſtru<g ref="char:EOLhyphen"/>ments of the ſame, his worſhip and ſervice which was then but temporall, and tipicall, ſo he will much more continue the ſame maintenance of the Tithes unto <hi>Luke, Timothy,</hi> and <hi>Titus.</hi> The Prophet <hi>Iſaiahs</hi> Prieſts, and Levites, to the ſame men <hi>Luke, Timothy,</hi> and <hi>Titus,</hi> our Chriſtian Paſtors, Teachers, and Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel, and to their ſucceſſors for ever.</p>
+            <p>Againe, the Apoſtle Saint <hi>Paul</hi> doth reaſon of the caſe very plainly, 1 Cor. 9. and ſheweth that he hath power to require maintenance, as in the 6. verſ. I onely and <hi>Barnabas</hi> have we not power to forbeare working, I marvile then with what face the <hi>Seperatiſts</hi> dare to ſpeak ſo bouldly, as they doe, to ſay that Mi<g ref="char:EOLhyphen"/>niſters ought to labour in ſome bodily or outward calling, when the Apoſtle ſaith that it is in their power to forbear working at any handie Trade, then in the 7. verſe the Apoſtle further ſaith, who goeth a warrfare at his one charge at any time, giving us to underſtand that if Captaines and Souldiers do not go to warres at their owne charge, then very well may Miniſters forbeare their duty if they cannot have maintenance; for he ſheweth his
+<pb n="7" facs="tcp:113654:6"/>reaſons for it, who planteth a vineyard and eateth not the fruite thereof, or who feedeth a flock and eateth not the milk of the flock?</p>
+            <p>The Apoſtle doth reaſon from a twofold experience of mans own practice, firſt, in planting a vineyard, ſecondly, in feeding of a flock, as if he ſhould have ſaid, Is there any man that is ſo fool<g ref="char:EOLhyphen"/>iſh as to plant a vineyard or feede a flock, and not expect ſome benefit for his paines and charge?</p>
+            <p>I know your anſwer will be, you will ſay no, I my ſelfe would not take ſuch paynes, and lye on charge for nothing.</p>
+            <p>Then conſider a Miniſters friends are at great charge for keep<g ref="char:EOLhyphen"/>ing him at ſchoole, and when he hath got learning, to be at great coſt for Bookes, and to attaine to the Miniſtry, and to beſtow his paines with diligence in his ſtudy, &amp; then to have little or nothing for his labor; Is this equity, &amp; can this ſtand with a good conſci<g ref="char:EOLhyphen"/>ence, let conſcionable men judge; but ſaith the carnall worldly man, Miniſters will ſpeak well enough for their own profit.</p>
+            <p>The Apoſtle doth anſwer that cavill in 1 Cor. 9.8. ſay I theſe things as a man, or ſaith not the Law the ſame alſo, Deut. 25.4. Here the Apoſtle citeth the Law of God for the maintenance of Miniſters of the Goſpel, and yet our <hi>Anabaptiſts,</hi> our <hi>Antinomians,</hi> our <hi>Browniſts,</hi> and <hi>Jndependents,</hi> will not in a<g ref="char:EOLhyphen"/>ny caſe heare of the Law of God, truly either the Apoſtle or they muſt needs be in a fowle errout: But they will not ſay the Apoſtle is in an errour, therefore they are in an error for want of grace, and Judgement. Certainly, if men would (that do profeſſe the Goſpel) leave of pride, and covetouſneſſe, there would not be ſuch variances among profeſſors of the Goſpell as there is, which doth breed and bring a great ſcandall to the truth. It maketh ignorant people to ſpeak idlely and harſhiy of Religion, and ſay there be ſo many Religions, that we cannot tell which way to take, when indeed there is but one Religion that is the truth that muſt bring us to true faith, true feare, and the true love of God.</p>
+            <p>So amongſt many differences here is one about Tythes; for the maintenance of the Miniſters of the Goſpel, which the Apoſtle doth prove by the Law of God, 1 Tim. 5.17.18. and ſo doth
+<pb n="8" facs="tcp:113654:7"/>reaſon the caſe in a faire exemplary way, in the 1 Cor. 9. the 9.10.11. and 12. verſ. and in the 13. and 14. verſ. he cometh cloſe to the matter in theſe words, do you not know that they which miniſter about holy things, live or feede of the things of the Temple, and they that wait at the Altar are partakers with the Altar?</p>
+            <p>Even ſo hath the Lord ordained that they which preach the Goſpel ſhould live of the Goſpel.</p>
+            <p>I hope you are not ignorant, how the Prieſts and Levites the Miniſters <hi>Jnſtruments</hi> of Gods worſhip and ſervice, how they did live, ſo, if you will not heare and learne what the Law of God ſaith, then heare learne and practice, what the Apoſtle doth tell you, do you not know that they which miniſter about holy things, live of the things of the Temple, and they that waite at the Alter are partakers with the Altar.</p>
+            <p>As if the Apoſtle ſhould have ſaid, you have a ſufficient preci<g ref="char:EOLhyphen"/>dent before you, how our predeceſſors before us were maintained: howſoever we differ in title, they were <hi>Prieſts,</hi> and <hi>Levites,</hi> we are <hi>Apoſtles, Paſtors,</hi> and <hi>Teachers,</hi> their worſhip and ſervice to God was externall and temporall, and our worſhip and ſervice to God is internall and ſpirituall; you ſee though the manner of Gods worſhip and ſervice is changed, yet the maintenance of Gods worſhip is not changed, the Apoſtle goes on in the 14. verſ. That as he ſaid even now, that as they which miniſter about ho<g ref="char:EOLhyphen"/>ly things, live of the things of the Temple, and they that waite at the Altar are pertakers of the Altar; even ſo ſaith the Apoſtle, hath the Lord ordained that they which preach the Goſpel ſhould live of the Goſpel, marke I pray you the Apoſtles words, even ſo hath the Lord ordained, that they which preach the Goſpel ſhould live of the Goſpel, they and none but they.</p>
+            <p>I would very willingly know of any one that doth deny this truth, that the Miniſters of the Goſpel ſhould not receive Tithes for their Maintenance, &amp; where they can prove that God hath or<g ref="char:EOLhyphen"/>dained maintenance other wayes for an inheritance then in the 18. Chap. of Numb. the 21. and 24.</p>
+            <p>And if any ſhall ſay that is ceremoniall for all that which hath been ſpoken before; Then I ſay they are wilfull, and will have
+<pb n="9" facs="tcp:113654:7"/>their own will, being perverſe in judgment and underſtanding Mehuge like proup and will teach God, how he ſhould maintaine his Paſtor and the Miniſters of his Goſpel.</p>
+            <p>This doth ſavour both of Pride and Covetouſneſſe.</p>
+            <p>Firſt, of pride in thinking themſelves to be ſuch as have at<g ref="char:EOLhyphen"/>tained to ſo much knowledge in the Scriptures, as they can con<g ref="char:EOLhyphen"/>vince any that ſay, Tithes do belong to the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel, when as indeed they ſay nothing.</p>
+            <p>Secondly, it ſavours of Covetouſneſſe; for there are many that think if they can ſave their Tithes to their own uſe, they have gotten a great Booty, and much benefit to themſelves, when as indeed it maketh the other 9. parts to be accurſed. It is like unto <hi>Achans</hi> Babiloniſh Garment, and his wedge of gold and ſilver that he ſtole, <hi>Joſuah</hi> 7. a deed that will never proſper, or as a wo<g ref="char:EOLhyphen"/>man that byes a peck of meale and divides it into 9. parts, and puts a tenth part of Rats-Bane into the 9. parts and ſee how that will prove, you will ſay that will poyſon as many as uſe it, and have part of it. And ſo will the Tithes that cometh of the owners, that doth or ſhall retaine them: Therefore heare and conſider. Experimentall knowledge is the beſt knowledge, I have knowne thoſe that would not indure paying of Tithes in kynd, to their Paſtor and Miniſter at no hand, except they may buy their Tithes of their Miniſter, and ſo to have it for halfe that it was worth, they have let land lye ſtill, becauſe that he ſhoud have nothing, but the Lord who gave thoſe Tithes tooke them to himſelfe, and layd ſuch a curſe upon the other nine parts, that they in their dayes, nor their poſterity did ever proſper: Nay now ſhall we think that God doth not ſee into this ſinne, as well as into other ſinnes, yes certainly, and hath and will puniſh it too. The Lord by the Prophet Malachi ſaith, 3.7, 8, 9, 10. E<g ref="char:EOLhyphen"/>ven from the dayes of your Fathesr ye are gone aſtray from mine Ordinances, and have not kept them, returne unto me, and I will returne unto you, ſaith the Lord of hoſts; but ye ſaid wherein ſhall we returne, verſ, 8. will a man rob God, yet ye have robbed me; but ye ſay wherein have we robbed thee, in Tythes and Offerings, verſ. 9. ye are curſed with a curſe, for ye have robbed me, even this whole Nation, verſ. 10. Bring ye all the Tithes into
+<pb n="10" facs="tcp:113654:8"/>the Store-houſe, that there may be meate in myne houſe, and prove me now herewith, ſaith the Lord of Hoſts, if I will not open the windowes of Heaven and power you out a bleſſing, that there ſhall not be roome enough to receive it.</p>
+            <p>This portion of Scripture doth deſerve a good Commentary to be made upon it; for further inſtruction and ſtirring up of people, to the duty of paying their Tithes the right way, and not to Church-Robbers, <hi>viz.</hi> to private men, dumb dogs, idle drones, and non-Reſidents: But to faithfull, painefull, and diligent Mi<g ref="char:EOLhyphen"/>niſters that have a Paſtorall charge over a Pariſh or Congrega<g ref="char:EOLhyphen"/>tion whereby the Soules of Gods people may be fed with ſpiritu<g ref="char:EOLhyphen"/>all food, unto eternall life. For the true and ſinceere preaching of Gods word is the means of faith, and true faith doth bring us to Jeſus Chriſt, and Jeſus Chriſt is the way to eternal life in Heaven.</p>
+            <p>If it had pleaſed God in the beginning of King <hi>James</hi> His Raygne, that all Impropriations had been called in, and a faith<g ref="char:EOLhyphen"/>full diligent Miniſter placed over every Congregation in a Paſto<g ref="char:EOLhyphen"/>rall charge, and the Tithes of every ſeverall Congregation, paid unto every ſeverall Miniſter that had ſuch a Paſtorall Charge, and the true diſſipline and reformation of the Church, had then been eſtabliſhed as it was then hoped it ſhould have been at the coming in of King <hi>James.</hi> Then had this miſery (that is now up<g ref="char:EOLhyphen"/>on this Land) never come, but the time of Reformation was not then come, and God had a Controverſie with this Kingdome, and therefore this Land was not fitted for ſuch a good work: yet the Lord did in mercy and judgement ſend a great Plague and Peſtilence, and ſince he hath ſent a greater Plague and Peſti<g ref="char:EOLhyphen"/>lence, and yet nothing of all this would call this Land to Re<g ref="char:EOLhyphen"/>pentance; For the people of this Land are as proud as ever they were before, as hatefull to true Religion, Prophaners of the Lords day, full of rayling, blaſpheming the name of God, and foulmouthed ſwearing, ſwearing falſe, whoreing, murdering, and blood, ſucking Church-robbing, and irreverent behaviour in the very Publick place of Gods worſhip and ſervice, but I have ſomthing digreſſed.</p>
+            <p>The Apoſtle Saint <hi>Paul</hi> ſaith in his Epiſtle to the Galathians, 6. Chap. 6. verſ. Let him that is taught in the word make him
+<pb n="11" facs="tcp:113654:8"/>that teacheth him partaker of all his goods. I marvell who ſhall decide this partaking of theſe goods, which the Apoſtle here ſpea<g ref="char:EOLhyphen"/>keth of; ſhall any man do it? No, for then he will be a Mehu<g ref="char:EOLhyphen"/>well a Teacher of God: For ſeeing God hath apparently ſet down in his Word that Tythes muſt belong to the <hi>Inſtruments</hi> of his Worſhip and Service, as is aforeſaid, and our Paſtors and Miniſters of Gods Worſhip and Service are the Inſtruments thereof. Now therefore the Tythes muſt of neceſſity belong unto them, for that is a true partaking of all his goods.</p>
+            <p>Furthermore, the Apoſtle to the Hebrews, Chap. 7. makes it very plain that Tythes do belong unto our Paſtors and Miniſters of the Goſpell.</p>
+            <p>Concerning this 7. Chap. if there were no other Scripture in all the New Teſtament to prove Tythes to belong to the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel; but this one Chapter, it were yet ſufficient for touching <hi>Melchiſadec,</hi> it is ſaid he was King of <hi>Salem,</hi> a Prieſt of the moſt high God, and in that he was a Prieſt of the moſt high God, and meeting <hi>Abraham</hi> when he returned from the ſlaugh<g ref="char:EOLhyphen"/>ter of the Kings he bleſſed him, and <hi>Abraham</hi> gave him the Tenth of the ſpoyles: From whence we may very well obſerve, That when the Miniſters of the Goſpel doe performe their Paſtorall Charge, in ſetting forth Gods Ordinances to their Pariſhioners, the Congregation is to give unto their Paſtour and Miniſter, the Tythe of all they doe get by their labour that cometh of the Fruit of the Earth, <hi>Gen.</hi> 14.19. <hi>Gal.</hi> 6.6. 1 <hi>Cor.</hi> 9.9, 10, 11.</p>
+            <p>Firſt, becauſe it is Gods part, <label type="milestone">
+                  <seg type="milestoneunit">Reaſons. </seg>
+               </label> God did reſerve the Tythes unto himſelf, <hi>Levit.</hi> 27.30. to the end.</p>
+            <p>Secondly, God hath given the Tythes to his Miniſters, that hath a Paſtorall Charge, <hi>Numb.</hi> 18. as you have heard before.</p>
+            <p>Thirdly, Goſpell Doctrine was taught before the Law, and the tenth part was paid before the Law; Therefore the tenth part of the Fruits of the Earth is due to the Miniſters of the Goſpell, <hi>Gen.</hi> 3.15. Chap. 17.7. and 28, 12, 14, 22. and 49.10. <hi>Revel.</hi> 10.2.</p>
+            <p>Fourthly, as it was lawfull for the Prieſts and Levites to receive Tythes for the performance of their Duties in the Worſhip and Service of God, then being but types and ſhadowes, much more
+<pb n="12" facs="tcp:113654:9"/>then the Miniſters of the Goſpel deſerve Tythes for their mainte<g ref="char:EOLhyphen"/>nance, being they do labour in the ſubſtance of Gods Worſhip and Service, <hi>Heb.</hi> 7.11.</p>
+            <p>For the Prieſts and Levites were but temporall, and alſo corpo<g ref="char:EOLhyphen"/>rall, and therefore not perfect. But our Miniſters of the Goſpell are Spirituall Labourers, and therefore the more precious, as the Apoſtle himſelf ſheweth in this 7. Chap. verſ. 7. and with<g ref="char:EOLhyphen"/>out all contradiction the leſſer is bleſſed of the better, giving us to underſtand, That as the Lord hath commanded the Sonnes of <hi>Le<g ref="char:EOLhyphen"/>vie,</hi> to receive Tythes of their Brethren after they had received the Office of Prieſthood; Thoſe I ſay who had paid Tythes unto <hi>Melchizadec,</hi> and ſo conſequently to our Saviour Chriſt whileſt they were yet in the loynes of <hi>Abraham,</hi> and then <hi>Melchiſadec</hi> bleſſed him and them; that is to ſay, <hi>Abraham</hi> and his Seed.</p>
+            <p>And further in the 8 verſe, and here, men that dye receive Tythes, but there he receiveth them; of whom it is witneſſed, that he liveth, and who is he that ever liveth, was it <hi>Melchiſadec,</hi> or our Saviour Jeſus Chriſt? if it was <hi>Melchiſadec,</hi> then it cannot be de<g ref="char:EOLhyphen"/>nyed but he was a figure of Chriſt, as Chap. 7. verſ. 1. and 3. it doth appear. Then <hi>Melchizadec</hi> receiving Tythes, verſ. 4.6. it muſt needs follow conſequently, that Jeſus Chriſt our bleſſed Sa<g ref="char:EOLhyphen"/>viour did receive Tythes: and what did he with them? I anſwer, he did leave them with <hi>Melchizadecs</hi> Succeſſours, untill he brought the Children of Iſrael forth of Egipt into the wilderneſſe, and then he gave them his <hi>Law,</hi> ſhewing them how they ſhould carrie themſelves towards God, and towards themſelves, and their Neighbours; And withall gave them Prieſts and Levites as In<g ref="char:EOLhyphen"/>ſtruments of his Worſhip and Service, and then he gave them the Tythes for their maintenance an Inheritance, <hi>viz.</hi> for ever as you have heard before: And theſe Tythes being for an Inheritance, the Ceremoniall Law being but ſhadowes and Types of better things to come: Theſe things ended, and the ſubſtance came, when Jeſus Chriſt came in the fleſh: the Office of the Prieſts and Levites being ended, to whom ſhould the Tythes belong, but to the Miniſters of Chriſt that preach the Goſpel to continue for e<g ref="char:EOLhyphen"/>ver for their maintenance, as God hath before commanded.</p>
+            <p>I do verily believe, that if any of our Reverend Divines of the
+<pb n="13" facs="tcp:113654:9"/>Synod ſhould but commentary upon this ſeventh Chap<g ref="char:EOLhyphen"/>ter to the Hebrewe, they could not but yeeld the tithes to the Miniſters of the Goſpell of Jeſus Chriſt, if there were no other proofs in the Bible to prove it; but if they ſhould, one adverſe party or other, would be ready to raiſe aſlander upon them, and ſay they preached for themſelves, when as indeed it is as neceſ<g ref="char:EOLhyphen"/>ſarie a truth as any is to be preached: for take away the mainte<g ref="char:EOLhyphen"/>nance of preaching the truth, how long can it ſtand?</p>
+            <p>You keep much adoe about payment of Tithes, as if there were nothing to be done but paying of Tithes; but if this pay<g ref="char:EOLhyphen"/>ing of Tithes be a Morall Law, as you ſay it is, I marvell how it is that Offerings are not paid as well as Tithes. I am ſure elſe Lord did complaine by the Prophet <hi>Malachi</hi> in his 3. Chap. 8. Verſ. That they had robbed him in Tithes, and Offerings; And now no Offerings are paid, and the refore it ſhould ſeeme the Law for Tithes and Offerings to be paid, is Ceremoniall and not Morall.</p>
+            <p>I anſwer, you thinke you have ſpoken wiſely, and home to the purpoſe, but alas, you are quite befogged in the dark ſha<g ref="char:EOLhyphen"/>dow of Ceremonies.</p>
+            <p>It ſhould ſeem you never in all your life payed Offerings, and therefore no marvell that you would pay no Tithes.</p>
+            <p>But to the matter. As the Doctrine of the Goſpell is ſpiritu<g ref="char:EOLhyphen"/>all, ſo are the paying of Offerings ſpirituall: The Prophet <hi>Da<g ref="char:EOLhyphen"/>nia</hi> did well propheſie of theſe ſpirituall offerings, long before the coming of Chriſt in the fleſh, <hi>Pſal.</hi> 40.6. ſaying, ſacrifice and offerings thou didſt not deſire, but mine ears haſt thow opened, as if the Prophet ſhould have ſaid, Lord, as thou haſt given me the Spirit of Propheſie, to ſpeak in the perſon of the <hi>Meſſia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to come, ſo O Lord thou haſt opened mine ears to hear, &amp; my heart to underſtand, what manner of worſhip thou haſt in thine e<g ref="char:EOLhyphen"/>ternall Counſell appointed, the <hi>Meſſias</hi> at his coming ſhall be performed in theſe words, burnt offerings and ſin <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferings haſt thou not required, and ſo forwards in the 7, 8, 9, and 10, verſes, ſo that the coming of our Saviour Jeſus Chriſt, he ſet forth his Fathers will, what manner of Worſhip he would have,
+<pb n="14" facs="tcp:113654:10"/>
+               <hi>Iohn</hi> 4.23, 24, 25. ſo here we ſee what Worſhip and Service be requireth, as namely, ſpirituall Worſhip, and ſpirituall Service.</p>
+            <p>In the 5. Book of <hi>Moſes</hi> there is mention made of many ſorts of Offerings, eſpecially in the three middle Bookes, and above all offerings, the burnt offerings are moſt ſpoken of, as in the 28. Chapter of the Book of <hi>Numbers,</hi> the Lord doth moſt of all preſſe thoſe offerings made by fire, now what have we to learn by this, that our offerings muſt be ſpirituall. That is, our prayers muſt burne with zeale, with ferventneſſe, and pure affection: we muſt be zealous in prayer and praiſing God, <hi>Iames</hi> 5.16. <hi>Pſa.</hi> 119.7. in uprightneſſe of heart, our love muſt bee zealous and fervent to ſet forth the glorie of God in Jeſus Chriſt, zealous of a true juſtifying lively ſaving and working faith apprehenſively, <hi>Rom.</hi> 3.24. <hi>Jam.</hi> 2.17, 18, 21, 22, 23. to be zealous of repentance, to be zealous of obedience, to be ſhort, that wee be zealous of everie good worke, and duty. <hi>Tit.</hi> 2.14.</p>
+            <p>Thus you ſee what ſpirituall burnt offerings are, and they that have received the Spirit of God in any good meaſure, can and will be zealous; and thoſe that have received the ſpirit of illu<g ref="char:EOLhyphen"/>mination and underſtanding of Gods Word may and can prove that Miniſters of the Goſpell ought to have Tithes for their maintenance, though it bee in Cities and Townes, there it may ariſe in moneyes.</p>
+            <p>But here may very well ariſe a queſtion, how Tithes are to be raiſed in Cities, and Townes, not wronging the Pariſhoners on the one ſide, nor the Paſtour and Miniſter on the other ſide; muſt the Pariſhioners pay the tenth penny of their labours?</p>
+            <p>I anſwer, No, neither are labouring men that live onely by their meer labour to pay Tithes, in the Countrey they do not, therfore not in the Cities or Towns, but if thoſe labouring men, or women have a garden or a cow, or any thing more then their labour, they are to pay the tenth part of it in thoſe Cities and Towns, but how muſt Tithes be paid?</p>
+            <p>I anſwer thus, T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Merchants or Shop-keepers buy in their ware to their ſhops, and then he himſelfe or his ſervant, or ſervants are to attend all the day, to ſell their ward, either
+<pb n="15" facs="tcp:113654:10"/>by groſſe, or retaile; and then when the night is done, that hee hath ſhut up his ſhop, hee looks in his Caſh-box to ſee what money hee hath taken for that former day, and what hee hath ſold, and what that he ſold did coſt him; then he layes out the moneys it coſt him, and his charge for his labour and atten<g ref="char:EOLhyphen"/>dance in ſale of it, to thoſe hee doth employ, and layes out of the money for that, and then that part that is left is cleare gain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The tenth penny muſt ariſe and be paid out of this cleare gaines to the Paſtour and Miniſter of that Congregation, and by this meanes thoſe that do in right pay their Tithes, ſhall voyd the curſe that is threatened againſt defrauders of Tithes.</p>
+            <p>But there is enough ſpoken of this before, only this, All they that ſhall refuſe paying their Tythes to their Paſtor or Miniſter are Church-robbers: I do underſtand there be ſome that have petitioned the Parliament, that Tithes may not be paid unto the Miniſters of the Goſpell, becauſe (as they ſay) it is Jewiſh and Popiſh.</p>
+            <p>O horrible impietie! That men ſhould be ſo graceleſſe, as to derogate from the word of God, and alſo to abuſe the power and authoritie of the King, and the moſt Honourable and Su<g ref="char:EOLhyphen"/>preame Court of Parliament, making it a Bawd to their ſini<g ref="char:EOLhyphen"/>ſter deſignes.</p>
+            <p>If thoſe Petitioners had petitioned for a licence to rob upon the Road-way, their ſin had not been ſo great: But you will ſay this were a groſſe ſin, the Parliament would never have granted ſuch a wicked Petition.</p>
+            <p>I anſwer, No; and I hope they will not grant this, except they meane to procure another curſe upon the Land, <hi>Malach.</hi> 3.9. But their vigilancie is better than ſo, for they labour to bring bleſſings upon the Kingdome, and not curſings. But ſuch as keep the maintenance of Gods worſhip and ſervice to them<g ref="char:EOLhyphen"/>ſelves, do draw on a curſe upon their heads, as is ſaid before.</p>
+            <p>And this is the beloved ſin, the private ſin, and the hypocri<g ref="char:EOLhyphen"/>ticall ſin, that Church-robbers both in themſelves and in their poſteritie are plagued for.</p>
+            <p>And thus wee may ſee the perverſe natures of theſe cruell,
+<pb n="16" facs="tcp:113654:11"/>proud, covetous wretches, that make no care or conſcience how they get the riches of this world, ſo they have it: As for to co<g ref="char:EOLhyphen"/>vet the Tithes, is the Lords portion, <hi>Levit.</hi> 27.32. It is his Mini<g ref="char:EOLhyphen"/>ſters portion, 1 <hi>Cor.</hi> 9. verſ. 8, 9, 13, 14. <hi>Hebr.</hi> 7. verſ. 6, 7, 8, 9, 10. And therefore thoſe private men that do retaine Tithes to their owne private uſe in poſſeſſion, and do not deliver them to their Paſtour and Miniſter that have the charge of their ſouls, they do procure the curſe of God upon themſelves, <hi>Malac.</hi> 3.8.9. as is be<g ref="char:EOLhyphen"/>fore ſpoken.</p>
+            <p>Howſoeuer the Adverſaries of the maintenance of the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell will not approve of it by Tithes, yet thoſe that do receive the earneſt of Gods ſanctifying ſpirit, 2 <hi>Cor.</hi> 5.5. they will with modeſtie read the holy Scriptures with under<g ref="char:EOLhyphen"/>ſtanding, and moderately to judge the truth of it, when as in<g ref="char:EOLhyphen"/>deed thoſe that are poſſeſſed with a proud, ſcoffing, and ſcom<g ref="char:EOLhyphen"/>full ſpirit, they will never have done with their ſcoffing, jeering, and cavilling.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
